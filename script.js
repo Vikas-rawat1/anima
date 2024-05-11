@@ -61,7 +61,7 @@ textAnimate.from("#para h1", {
   opacity: 0.3,
   duration: 1,
   delay: 0.8,
-  
+
   scrollTrigger: {
     trigger: "#para ",
     scroller: "body",
