@@ -1,5 +1,7 @@
 var textAnimate = gsap.timeline();
 
+var footerAnimate = gsap.timeline();
+
 var cursor = document.querySelector("#cursor");
 
 var imageDiv = document.querySelector("#image");
@@ -123,3 +125,24 @@ Draggable.create("#draggableImages img", {
   bounds: "#draggableImages",
   inertia: true,
 });
+
+//FOOTER
+
+gsap.to("#footer h1", {
+  x: 70,
+  // opacity: 0,
+  scrollTrigger: {
+    trigger: "#footer ",
+    scroller: "body",
+    // markers: true,
+    start: "top 30%",
+    end: "top -40%",
+    scrub: 1,
+    pin: true,
+    stagger: 0.5,
+  },
+});
+
+gsap.to("#footerLogo",{
+  stagger:2,
+})
