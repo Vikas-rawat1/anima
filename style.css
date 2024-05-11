@@ -113,9 +113,11 @@ nav a {
   width: 100%;
   height: 100%;
 }
+
 #draggable h1 {
   text-align: center;
 }
+
 #draggableImages {
   margin-top: 5vw;
   width: 100%;
