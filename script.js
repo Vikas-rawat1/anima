@@ -145,4 +145,5 @@ gsap.to("#footer h1", {
 
 gsap.to("#footerLogo h1",{
   stagger:2,
+  y:-30,
 })
