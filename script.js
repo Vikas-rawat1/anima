@@ -143,6 +143,6 @@ gsap.to("#footer h1", {
   },
 });
 
-gsap.to("#footerLogo",{
+gsap.to("#footerLogo h1",{
   stagger:2,
 })

@@ -250,7 +250,7 @@ nav a {
   }
   #footerLogo {
     font-size: 10vw;
-    /* margin-top: 50vw; */
+    margin-top: 50vw;
     text-align: center;
     text-transform: uppercase;
     /* display: none; */
