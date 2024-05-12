@@ -139,7 +139,7 @@ gsap.to("#footer h1", {
     end: "top -40%",
     scrub: 1,
     pin: true,
-    // stagger: 0.5,
+    stagger: 0.5,
   },
 });
 
