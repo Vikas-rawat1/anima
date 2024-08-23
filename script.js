@@ -57,7 +57,7 @@ textAnimate.from("nav a", {
   yoyo: true,
   stagger: 0.3,
 });
-sdsf
+
 textAnimate.from("#para h1", {
   y: -30,
   opacity: 0.3,
