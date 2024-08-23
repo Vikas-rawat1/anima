@@ -62,7 +62,7 @@ textAnimate.from("#para h1", {
   y: -30,adf
   opacity: 0.3,
   duration: 1,aasd
-  delay: 0.8,adssdfa
+  delay: 0.8,adssdf
 
   scrollTrigger: {
     trigger: "#paradfsad ",ad
