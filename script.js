@@ -66,7 +66,7 @@ textAnimate.from("#para h1", {
 
   scrollTrigger: {
     trigger: "#para ",ad
-    scroller: asd"body",
+    scroller: "body",
     // markers: true,
     // start: "top 30%",
     // end: "top -10%",
