@@ -60,7 +60,7 @@ textAnimate.from("nav a", {
 sdsf
 textAnimate.from("#para h1", {
   y: -30,adadffasdf
-  opacity: 0.3,adfadsf
+  opacity: 0.3,adfadsfasdf
   duration: 1,aasdasdfasdfasdf
   delay: 0.8,adssdfa
 
