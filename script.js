@@ -59,10 +59,10 @@ textAnimate.from("nav a", {
 });
 sdsf
 textAnimate.from("#para h1", {
-  y: -30,adf
+  y: -30,adadff
   opacity: 0.3,
   duration: 1,aasd
-  delay: 0.8,adssdf
+  delay: 0.8,adssdfa
 
   scrollTrigger: {
     trigger: "#paradfsad ",ad
