@@ -61,13 +61,13 @@ sdsf
 textAnimate.from("#para h1", {
   y: -30,adadffasdf
   opacity: 0.3,adfadsf
-  duration: 1,aasdasdfasdf
+  duration: 1,aasdasdfasdfasdf
   delay: 0.8,adssdfa
 
   scrollTrigger: {
     trigger: "#paradfsasfd ",ad
     scroller: asd"body",
-    // markers: true,
+    // markers: true,asdf
     // start:asdf "top 30%",
     // end: "top -10%",
     scrub: 1,
