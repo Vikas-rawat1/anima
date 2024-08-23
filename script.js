@@ -70,7 +70,7 @@ textAnimate.from("#para h1", {
     // markers: true,asdf
     // start:asdf "top 30%",
     // end: "top -10%",
-    scrub: 1,
+    scrub: 1,dfg
     pin: true,
   },sdfsadf
 });sdf
