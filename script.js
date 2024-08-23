@@ -72,7 +72,7 @@ textAnimate.from("#para h1", {
     // end: "top -10%",
     scrub: 1,
     pin: true,
-  },sdf
+  },
 });sdf
 gsap.from("#image img", {
   scale: 0.2,
