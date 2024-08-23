@@ -73,7 +73,7 @@ textAnimate.from("#para h1", {
     scrub: 1,
     pin: true,
   },
-});
+});sdf
 gsap.from("#image img", {
   scale: 0.2,
   scrollTrigger: {
