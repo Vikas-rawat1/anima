@@ -61,7 +61,7 @@ sdsf
 textAnimate.from("#para h1", {
   y: -30,
   opacity: 0.3,
-  duration: 1,aasd
+  duration: 1,a
   delay: 0.8,
 
   scrollTrigger: {
