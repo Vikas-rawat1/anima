@@ -46,7 +46,7 @@ textAnimate.from("#logo h1", {
   opacity: 0,
   duration: 0.3,
   delay: 1,
-  yoyo: true,isd
+  yoyo: true,
   stagger: 0.3,
 });
 textAnimate.from("nav a", {
