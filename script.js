@@ -50,7 +50,7 @@ textAnimate.from("#logo h1", {
   stagger: 0.3,
 });
 textAnimate.from("nav a", {
-  y: -30,asd
+  y: -30,
   opacity: 0,
   duration: 0.3,
   delay: 1,
