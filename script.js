@@ -45,7 +45,7 @@ textAnimate.from("#logo h1", {
   y: -30,
   opacity: 0,
   duration: 0.3,
-  delay: 1,ksdksdkjffj
+  delay: 1,ksdkfj
   yoyo: true,
   stagger: 0.3,
 });
