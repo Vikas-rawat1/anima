@@ -51,7 +51,7 @@ textAnimate.from("#logo h1", {
 });
 textAnimate.from("nav a", {
   y: -30,asd
-  opacity: 0,
+  opacity: 0,duf
   duration: 0.3,
   delay: 1,
   yoyo: true,
